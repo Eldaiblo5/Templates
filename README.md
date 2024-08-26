@@ -1,2 +1,2 @@
 # Templates
-```lua.E```
+`Hello`
